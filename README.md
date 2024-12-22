@@ -7,7 +7,7 @@ Con interes en desarrollo de videojuegos 🎮.
 
 
 ## 🔗 Links
-[![Static Badge](https://img.shields.io/badge/Linkedin-3059FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://www.linkedin.com/in/hern%C3%A1n-miranda-557711342/)
+[![Static Badge](https://img.shields.io/badge/Linkedin-3059FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://www.linkedin.com/in/hern%C3%A1n-miranda/)
 
 
 ## 🛠 Tecnologías
