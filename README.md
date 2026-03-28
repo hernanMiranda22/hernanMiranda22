@@ -1,15 +1,20 @@
 # Hola, soy Hernán 👋
+📱 Desarrollador Android
 
-## 📱 Android Developer 
-Soy un apasionado Android Developer, desarrollo proyectos personales para seguir aprendiendo 💪.
+🎓 Estudiante de Lic. En Sistemas
+
+💻 Tecnicatura en programación 
  
-## 🔗 Links
-[![Static Badge](https://img.shields.io/badge/Linkedin-3059FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://www.linkedin.com/in/hern%C3%A1n-miranda/)
+## 🛠 Stack
+### Lenguajes y Frameworks
+![Static Badge](https://img.shields.io/badge/Kotlin-7725FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=cup&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
+### IDES y Herramientas
+![Static Badge](https://img.shields.io/badge/Android%20Studio-74FFB3?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 🛠 Tecnologías
-![Static Badge](https://img.shields.io/badge/Kotlin-7725FF?style=for-the-badge&logo=kotlin&logoColor=ffffff&labelColor=000000)
-![Static Badge](https://img.shields.io/badge/Android%20Studio-74FFB3?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF&labelColor=000000)
+![Static Badge](https://img.shields.io/badge/Firebase-FFEC30?style=for-the-badge&logo=firebase&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Firebase-FFEC30?style=for-the-badge&logo=firebase&logoColor=FFFFFF&labelColor=000000)
-![Static Badge](https://img.shields.io/badge/Java-3065FF?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=000000)
